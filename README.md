@@ -21,7 +21,7 @@
   "business_id": "API接入KEY",
   "timestamp": "1594021065509",
   "unique_id": "a2e1872a-3d12-4abd-a23a-e07e33589ab4",
-  "data": "待测试内容",
+  "data": "待检测内容",
   "signature": "1dec6cfb354db2a7630504d9bf6f06d2d5da27dc"
 }
 ```

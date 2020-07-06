@@ -34,4 +34,4 @@ def sed(content):
     response = requests.post(url=URL, data=param)
     print(response.text)
 
-sed("待测试文本")
+sed("待检测内容")

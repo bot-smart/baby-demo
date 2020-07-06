@@ -14,7 +14,7 @@ public class Demo {
     private static final String API_URL = "https://api.botsmart.cn/baby/check";
     private static final String APP_ID = "API接入Key";
     private static final String APP_SECRET = "API接入Key";
-    private static final String BUSINESS_ID = "";
+    private static final String BUSINESS_ID = "API接入Key";
 
 
     public static void main(String[] args) {
